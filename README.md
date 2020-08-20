@@ -1,2 +1,2 @@
 # scripts
-Python scripts
+puython scripts for automation
