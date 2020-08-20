@@ -1,2 +1,2 @@
-# scripts
-Python scripts
+# Python scripts
+script for automate routine tasks
