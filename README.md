@@ -1,2 +1,1 @@
-# scripts
-Creating scripts for automate routine tasks
+Some scripts for automate routine tasks
